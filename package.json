@@ -1,5 +1,5 @@
 {
-  "name": "@valdio/react-native-scrollable-tabview",
+  "name": "@eddyoc/react-native-scrollable-tabview",
   "version": "0.8.12",
   "description": "",
   "main": "lib/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/valdio/react-native-scrollable-tabview.git"
+    "url": "git+https://github.com/eddyoc/react-native-scrollable-tabview.git"
   },
   "keywords": [
     "react-native-component",
@@ -19,13 +19,13 @@
     "tab",
     "scrollable"
   ],
-  "author": "Valdio Veliu <Valdio Veliu>",
+  "author": "Edmund O'Connell <eddyoc>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/valdio/react-native-scrollable-tabview/issues"
+    "url": "https://github.com/eddyoc/react-native-scrollable-tabview/issues"
   },
   "peerDependencies": {},
-  "homepage": "https://github.com/valdio/react-native-scrollable-tabview#readme",
+  "homepage": "https://github.com/eddyoc/react-native-scrollable-tabview#readme",
   "dependencies": {},
   "devDependencies": {}
 }
